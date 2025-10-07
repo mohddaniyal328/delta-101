@@ -1,1 +1,1 @@
-# delta-101
+tutorial for git
